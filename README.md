@@ -10,3 +10,6 @@ aggregates the duplicated data.
 • Using Python, I was able to create an application that was able to
 track and display a ratio between two correlated stocks in terms of
 relative performance and provide the user updates based on the performance.
+
+
+![Screenshot (1001)](https://github.com/ashish6523/JP-Morgan-Virtual-Internship/assets/108401537/920f8407-2637-440a-bad6-1fde03e3783a)
